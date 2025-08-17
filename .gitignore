@@ -117,3 +117,6 @@ dmypy.json
 *.temp
 .tmp/
 temp/
+
+# Archivos CSV
+*.csv
